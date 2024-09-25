@@ -1,4 +1,4 @@
-package MetodoSimplex;
+package Unidad1.Proglineal;
 
 
 

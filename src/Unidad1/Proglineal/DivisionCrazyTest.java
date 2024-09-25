@@ -1,5 +1,7 @@
 
-package MetodoSimplex;
+package Unidad1.Proglineal;
+
+
 public class DivisionCrazyTest {
 
     public static void main(String[] args) {
