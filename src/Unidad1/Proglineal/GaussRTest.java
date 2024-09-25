@@ -1,5 +1,7 @@
 
-package MetodoSimplex;
+package Unidad1.Proglineal;
+
+import Unidad1.Proglineal.GaussR;
 
 public class GaussRTest {
 
@@ -10,6 +12,7 @@ public class GaussRTest {
                           {0,2,1.5,0.5,0,0,1,0,8},
                           {0,0,1,0,0,0,0,1,5}};
          GaussR p = new GaussR(pl, 3, 1);
+         p.resolver();
          p.print();
     }
    
